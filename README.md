@@ -9,8 +9,8 @@
   <a href="https://www.linkedin.com/in/guilherme-marinho04/">
     <img src="https://img.shields.io/badge/LinkedIn-guilherme--marinho04-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:guilherme.marinho04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-guilherme.marinho04%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  <a href="mailto:guimars22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-guimars22%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://webprimemotors.somee.com/">
     <img src="https://img.shields.io/badge/Demo-WebPrime%20Motors-22c55e?style=flat&logo=googlechrome&logoColor=white"/>
@@ -37,6 +37,8 @@ Atualmente trabalho como **Assistente de TI** na FADI – Faculdade de Direito d
 | [🛡️ Ransomware & Keylogger Shield](https://github.com/GuiMRDS/Ransomware_and_Keylogger_Shield) | Simulação ofensiva e defesa ativa contra ransomware e keylogger em ambiente controlado para fins educacionais | Python · Linux · Kali Linux |
 | [🔑 Brute Force Study](https://github.com/GuiMRDS/Ataque-de-Brute-Force-de-Senhas-com-Medusa-e-Kali-Linux) | Ataque de força bruta em SSH, FTP e HTTP com Medusa + estratégias de mitigação e defesa | Kali Linux · Medusa · Linux |
 | [📚 Biblioteca Virtual](https://github.com/GuiMRDS/Bibloteca_Vitual) | Sistema de gerenciamento de biblioteca — Projeto Integrado Multidisciplinar (PIM UNIP 2024/2) | C# · .NET · Visual Studio |
+| [🏦 Banco Digital Java](https://github.com/GuiMRDS/BancoDigitalJava) | Sistema de banco digital com conta corrente, poupança, depósito, saque, transferência e extrato via terminal | Java · POO · Herança · Interfaces |
+| [🏦 Conta Bancária Java](https://github.com/GuiMRDS/ContaBancaria-java) | Simulação de conta bancária com foco em sintaxe Java, construtores, encapsulamento e métodos | Java · POO |
 
 ---
 
