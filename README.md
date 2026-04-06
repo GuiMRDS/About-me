@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Guilherme%20Marinho&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20IT%20Assistant%20%C2%B7%20Cybersecurity&descSize=15&descAlignY=58"/>
 
-<img src="https://github.com/GuiMRDS.png" width="120" style="border-radius:50%; margin-top:-50px"/>
 
 <br/>
 
