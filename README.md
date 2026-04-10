@@ -65,9 +65,6 @@ Versatilidade não é fraqueza de foco. É capacidade de cobrir o sistema de pon
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=GuiMRDS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=3fb950"/>
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiMRDS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
-
 <br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=GuiMRDS&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=3fb950&fire=ff7b72&currStreakLabel=e6edf3&sideLabels=8b949e&dates=484f58)
