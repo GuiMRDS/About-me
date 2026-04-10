@@ -1,118 +1,183 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Guilherme%20Marinho&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20IT%20·%20Cybersecurity&descSize=14&descAlignY=58"/>
+<h1>Guilherme Marinho</h1>
+
+<p>
+Desenvolvedor focado em resolver problemas reais com software — unindo back-end sólido, visão de negócio e comunicação direta com o cliente.
+</p>
+
+<br/>
+
+[LinkedIn](https://www.linkedin.com/in/guilherme-marinho04/) • 
+[Email](mailto:guimars22@gmail.com) • 
+[Projeto ao vivo](https://webprimemotors.somee.com/) • 
+[GitHub](https://github.com/GuiMRDS)
 
 </div>
 
-<br/>
+---
 
-> **Back-end sólido. Visão de negócio real. Entrega que funciona.**
-> Desenvolvo sistemas que resolvem problemas concretos — não só código que compila.
+## 💡 O que eu faço
 
-<br/>
+Não sou só alguém que escreve código.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-marinho04/)
-[![Gmail](https://img.shields.io/badge/contato-guimars22@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:guimars22@gmail.com)
-[![Demo ao vivo](https://img.shields.io/badge/Demo_WebPrime_Motors-22c55e?style=flat-square)](https://webprimemotors.somee.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GuiMRDS)
+Atuo na interseção entre **desenvolvimento, suporte técnico e negócio**, o que me permite entender o problema antes de sair programando.
+
+- Transformo necessidade real em solução funcional
+- Traduzo o técnico para quem não é técnico
+- Entrego sistemas utilizáveis — não só “código bonito”
 
 ---
 
-## Quem sou
+## 🧠 Como eu penso
 
-Desenvolvedor full stack com foco em back-end, atuando também em suporte de TI e segurança da informação. Tenho 3+ anos de freelance com atendimento direto a clientes reais — o que significa que entendo o problema antes de abrir o editor.
+A maioria dos devs começa pelo código. Eu começo pelo problema.
 
-Hoje sou Assistente de TI na FADI (Faculdade de Direito de Sorocaba), onde suporto ambiente institucional, automatizo processos e desenvolvo o site da instituição em paralelo. Antes disso, passei 2 anos no laboratório de informática da UNIP dando suporte técnico a docentes e alunos.
+Minha base vem de:
+- Atendimento direto com clientes (freelancer)
+- Suporte técnico em ambiente acadêmico
+- Rotina real lidando com usuários, erros e urgência
 
-Inglês C1. Formação em Análise e Desenvolvimento de Sistemas — UNIP.
-
----
-
-## O que eu resolvo
-
-| Precisa de sistema back-end robusto | Precisa traduzir técnico para stakeholder | Precisa de segurança no radar |
-|---|---|---|
-| ASP.NET Core MVC, EF Core, SQL Server, Docker. Construo do banco à API. | 3 anos atendendo cliente final como freelancer. Não entrego só código — entrego contexto. | Kali Linux, hacking ético, análise de vulnerabilidades. Segurança não é módulo extra, é parte do processo. |
+Isso me fez desenvolver:
+- Clareza na comunicação
+- Visão prática de entrega
+- Capacidade de adaptação rápida
 
 ---
 
-## Stack
+## ⚙️ Stack principal
 
 **Back-end**
-`C#` · `.NET / ASP.NET Core` · `Entity Framework Core` · `Java` · `PHP` · `Python`
+- C# · .NET · ASP.NET Core · Entity Framework  
+- Java · PHP · Python  
 
 **Front-end**
-`JavaScript` · `HTML5` · `CSS3` · `Bootstrap 5` · `WordPress`
+- JavaScript · HTML · CSS · Bootstrap  
+- WordPress  
 
-**Dados & Infraestrutura**
-`SQL Server` · `MongoDB` · `Docker` · `AWS` · `Azure (AZ-900)`
+**Banco de dados**
+- SQL Server · MongoDB  
 
-**Segurança & SO**
-`Kali Linux` · `Linux` · `Git / GitHub`
+**Infra & ferramentas**
+- Docker · AWS · Azure  
 
----
-
-## Projetos
-
-### 🚗 WebPrime Motors — [demo online](https://webprimemotors.somee.com/) · [repositório](https://github.com/GuiMRDS/WebPrimeMotors)
-
-Sistema corporativo completo de gestão para concessionárias. Controle de estoque, vendas e usuários com painel administrativo. Construído com ASP.NET Core MVC, Entity Framework Core, SQL Server e Bootstrap 5 — hospedado e rodando em produção.
+**Cybersecurity**
+- Kali Linux · Linux · fundamentos de segurança ofensiva  
 
 ---
 
-### 🔐 Ransomware & Keylogger Shield — [repositório](https://github.com/GuiMRDS/Ransomware_and_Keylogger_Shield)
+## 🚀 Projetos que representam meu nível
 
-Ferramenta de defesa contra ransomware e keyloggers. Projeto prático de cybersecurity — análise de comportamento malicioso e desenvolvimento de contramedidas.
+### 🔹 WebPrime Motors  
+Sistema completo de gestão para concessionária.
 
----
+**O que resolve:**
+- Controle de veículos
+- Gestão de clientes
+- Operação interna estruturada
 
-### 🔑 Brute Force Study — [repositório](https://github.com/GuiMRDS/Ataque-de-Brute-Force-de-Senhas-com-Medusa-e-Kali-Linux)
+**Stack:**
+ASP.NET Core MVC · Entity Framework · SQL Server · Bootstrap
 
-Estudo documentado de ataques de força bruta com Medusa e Kali Linux em ambiente controlado. Foco em compreender vetores de ataque para construir defesas mais sólidas.
-
----
-
-### 📚 Biblioteca Virtual — [repositório](https://github.com/GuiMRDS/Bibloteca_Vitual)
-
-Sistema de gestão de biblioteca com cadastro de livros, usuários e controle de empréstimos. Projeto acadêmico com foco em modelagem de dados e lógica de negócio.
-
----
-
-## Experiência
-
-**Assistente de TI · FADI — Faculdade de Direito de Sorocaba** *(abr/2025 – atual)*
-Suporte técnico institucional, automação de processos de sala de aula, administração do ERP Sophia e desenvolvimento do site WordPress da instituição. Atendimento direto a docentes.
-
-**Auxiliar de Laboratório de Informática · UNIP** *(mar/2023 – fev/2025)*
-Suporte a alunos e professores, manutenção de hardware, administração de redes e gestão de ambientes virtuais de aprendizagem. 2 anos de ambiente corporativo acadêmico de alto volume.
-
-**Designer Gráfico & Desenvolvedor Web · Freelancer** *(nov/2019 – fev/2023)*
-Atendimento completo ao cliente: levantamento de requisitos, proposta, desenvolvimento e entrega. Sites WordPress, layouts no Photoshop e front-end responsivo para clientes de múltiplos segmentos.
+🔗 Demo: https://webprimemotors.somee.com/  
 
 ---
 
-## Certificações
+### 🔹 Estudos em Cybersecurity  
+Projetos práticos voltados para segurança ofensiva.
 
-`🔐 Riachuelo Cibersegurança — DIO` &nbsp;·&nbsp; `☁️ AZ-900 Cloud Fundamentals — Microsoft` &nbsp;·&nbsp; `⚙️ WEX End to End Engineering — DIO`
-`🤖 Google AI Gemini Fundamentals — Google/CIEE` &nbsp;·&nbsp; `🐍 Programação Python — SENAI` &nbsp;·&nbsp; `🔎 XDR Segurança — Acronis`
+- Simulação de ransomware e keylogger
+- Testes de brute force com Kali Linux
+- Análise de vulnerabilidades
+
+Foco em entender **como ataques funcionam na prática** — não só teoria.
 
 ---
 
-## GitHub Stats
+### 🔹 Sistema de Biblioteca (Acadêmico)  
+Projeto focado em modelagem e lógica de sistema.
+
+- Estrutura orientada a objetos
+- Controle de empréstimos
+- Filtros e organização de dados
+
+---
+
+## 🏢 Experiência
+
+**Assistente de TI — FADI (atual)**  
+Atuação direta com usuários, suporte técnico e manutenção de sistemas.
+
+- Suporte a professores e ambiente institucional  
+- Automações e apoio em sala de aula  
+- Gestão e ajustes em WordPress  
+- Contato constante com problemas reais (e solução rápida)
+
+---
+
+**Auxiliar de Laboratório — UNIP (2 anos)**  
+Base sólida em suporte técnico e infraestrutura.
+
+- Manutenção de máquinas  
+- Apoio a alunos e docentes  
+- Administração de ambiente acadêmico  
+
+---
+
+**Freelancer — Web & Design (3+ anos)**  
+
+- Criação de sites para clientes reais  
+- Comunicação direta (briefing → entrega)  
+- Desenvolvimento com foco em resultado  
+- Experiência com WordPress e front-end  
+
+---
+
+## 🎯 Diferencial real
+
+Não sou só “dev iniciante”.
+
+Tenho histórico lidando com:
+- Cliente
+- Problema real
+- Pressão por solução
+
+Isso muda completamente a forma como eu desenvolvo.
+
+---
+
+## 📚 Formação
+
+Análise e Desenvolvimento de Sistemas — UNIP  
+(2024 – 2025)
+
+---
+
+## 🔐 Interesses
+
+- Cybersecurity (hacking ético)
+- Engenharia de software
+- Sistemas orientados a problema real
+- Evolução para back-end mais robusto e arquitetura
+
+---
+
+## 📬 Contato
+
+Se você precisa de alguém que:
+- Entenda o problema antes de codar  
+- Consiga se comunicar com clareza  
+- E entregue algo que realmente funcione  
+
+Vamos conversar.
+
+📎 LinkedIn: https://www.linkedin.com/in/guilherme-marinho04/  
+📩 Email: guimars22@gmail.com  
+
+---
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=GuiMRDS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=3fb950"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiMRDS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer"/>
-
-*Aberto a oportunidades Jr em Desenvolvimento, Cybersecurity e TI · Sorocaba/SP ou remoto*
+<p>Aberto a oportunidades como Desenvolvedor Jr, Cybersecurity ou IT Support</p>
 
 </div>
