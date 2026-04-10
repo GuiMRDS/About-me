@@ -61,38 +61,6 @@ Versatilidade não é fraqueza de foco. É capacidade de cobrir o sistema de pon
 
 ---
 
-## Projetos em Destaque
-
-<div align="center">
-
-[![WebPrime Motors](https://github-readme-stats.vercel.app/api/pin/?username=GuiMRDS&repo=WebPrimeMotors&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=3fb950)](https://github.com/GuiMRDS/WebPrimeMotors)
-[![Ransomware Shield](https://github-readme-stats.vercel.app/api/pin/?username=GuiMRDS&repo=Ransomware_and_Keylogger_Shield&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=3fb950)](https://github.com/GuiMRDS/Ransomware_and_Keylogger_Shield)
-
-[![Brute Force Study](https://github-readme-stats.vercel.app/api/pin/?username=GuiMRDS&repo=Ataque-de-Brute-Force-de-Senhas-com-Medusa-e-Kali-Linux&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=3fb950)](https://github.com/GuiMRDS/Ataque-de-Brute-Force-de-Senhas-com-Medusa-e-Kali-Linux)
-[![Biblioteca Virtual](https://github-readme-stats.vercel.app/api/pin/?username=GuiMRDS&repo=Bibloteca_Vitual&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=3fb950)](https://github.com/GuiMRDS/Bibloteca_Vitual)
-
-</div>
-
-### 🚗 WebPrime Motors
-
-Sistema corporativo de gestão para concessionárias. Controla estoque de veículos, fluxo de vendas e acesso por perfil de usuário — tudo em ambiente autenticado com painel administrativo completo. Arquitetura separada por responsabilidades, rodando em produção.
-
-O objetivo não era fazer um CRUD. Era substituir planilha por sistema. → [Demo online](https://webprimemotors.somee.com/)
-
-### 🔐 Ransomware & Keylogger Shield
-
-Ferramenta de defesa desenvolvida a partir do estudo de comportamento de malware. Analisa padrões de execução maliciosa e aplica contramedidas — construída com a mentalidade de quem entende como o ataque funciona antes de defender.
-
-### 🔑 Brute Force Study
-
-Análise técnica documentada de ataques de força bruta com Medusa e Kali Linux em ambiente isolado. Projeto de estudo ofensivo com aplicação direta em hardening e política de senhas.
-
-### 📚 Biblioteca Virtual
-
-Sistema de gestão de acervo e empréstimos com controle de usuários e regras de negócio definidas. Foco em modelagem de dados e lógica de domínio bem separada da camada de apresentação.
-
----
-
 ## GitHub Stats
 
 <div align="center">
