@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=680&lines=C%23+%C2%B7+.NET+%C2%B7+ASP.NET+Core+%C2%B7+Full+Stack;Construindo+sistemas+que+funcionam+de+verdade;Kali+Linux+%C2%B7+Hacking+%C3%89tico+%C2%B7+Pentest;C%C3%B3digo+limpo+%C2%B7+Arquitetura+s%C3%B3lida+%C2%B7+Entrega+real;IT+Assistant+%40+FADI+%C2%B7+Sorocaba%2C+SP;N%C3%A3o+entrego+c%C3%B3digo.+Entrego+solu%C3%A7%C3%A3o.;Ingl%C3%AAs+C1+%C2%B7+Open+to+remote+work;Comunica%C3%A7%C3%A3o+direta+%C2%B7+Escopo+claro+%C2%B7+Zero+idas+e+vindas)](https://github.com/GuiMRDS)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=C%23+%C2%B7+.NET+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Full+Stack;Construindo+sistemas+que+funcionam+de+verdade;TDD+%C2%B7+Jest+%C2%B7+Testes+Automatizados+%C2%B7+CI%2FCD;Kali+Linux+%C2%B7+Hacking+%C3%89tico+%C2%B7+C%C3%B3digo+Seguro;Docker+%C2%B7+PostgreSQL+%C2%B7+GitHub+Actions+%C2%B7+Deploy;IT+Assistant+%40+FADI+%C2%B7+Sorocaba%2C+SP;N%C3%A3o+entrego+c%C3%B3digo.+Entrego+solu%C3%A7%C3%A3o.;C%C3%B3digo+limpo+%C2%B7+Arquitetura+s%C3%B3lida+%C2%B7+Entrega+real;Ingl%C3%AAs+C1+%C2%B7+Open+to+remote+work;APIs+REST+%C2%B7+Autentica%C3%A7%C3%A3o+JWT+%C2%B7+Versionamento)](https://github.com/GuiMRDS)
 
 <br/>
 
@@ -24,17 +24,19 @@ $ whoami
   guilherme-marinho — dev que pensa antes de abrir o editor
 
 $ cat sobre.txt
-  Desenvolvo back-end robusto, APIs bem estruturadas e
-  interfaces que fazem sentido para quem usa.
+  Desenvolvo back-end robusto, APIs REST bem estruturadas
+  e interfaces modernas com React e Next.js que fazem sentido
+  para quem usa. Escrevo código com testes automatizados,
+  versionamento disciplinado e pipelines de CI/CD reais.
 
   3 anos atendendo cliente direto como freelancer ensinaram
   mais sobre escopo e entrega do que qualquer ambiente controlado.
   Transformo requisito confuso em sistema funcionando — sem
   idas e vindas desnecessárias.
 
-  Carrego uma camada de segurança no olhar: entendo vetores
-  de ataque, analiso vulnerabilidades e penso em defesa antes
-  de alguém apontar o problema.
+  Carrego uma camada de segurança no olhar: código com bcrypt,
+  prevenção de SQL injection, gestão de sessões e autenticação
+  segura desde o início — não como refatoração.
 
 $ echo $STATUS
   open to work → Dev Jr · Full Stack · IT Support
@@ -47,14 +49,66 @@ $ echo $STATUS
 
 ```javascript
 const stack = {
-  backend  : ["C#", ".NET", "ASP.NET Core MVC", "Entity Framework Core",
-               "Java", "PHP", "Python", "Node.js"],
-  frontend : ["JavaScript", "HTML5", "CSS3", "Bootstrap 5", "WordPress"],
-  database : ["SQL Server", "MongoDB", "PostgreSQL"],
-  devops   : ["Docker", "Git", "GitHub", "AWS", "Azure", "Linux"],
-  security : ["Kali Linux", "Hacking Ético", "Análise de Vulnerabilidades",
-               "Medusa", "Pentest básico"],
-  ingles   : "C1 — Advanced",
+
+  // linguagens & runtimes
+  linguagens : ["C#", ".NET", "Java", "PHP", "Python",
+                 "JavaScript (ES6+)", "Node.js"],
+
+  // back-end & apis
+  backend    : ["ASP.NET Core MVC", "Entity Framework Core",
+                 "APIs REST", "Autenticação JWT",
+                 "Versionamento de API", "Middlewares",
+                 "Status Codes HTTP", "Stateless Applications"],
+
+  // front-end
+  frontend   : ["React", "Next.js", "React Hooks", "SWR",
+                 "File-Based Routing", "HTML5", "CSS3",
+                 "Bootstrap 5", "WordPress", "Razor Views"],
+
+  // banco de dados
+  database   : ["SQL Server", "PostgreSQL", "MongoDB",
+                 "Entity Framework Core", "Migrations",
+                 "Connection Pooling", "Queries Parametrizadas",
+                 "Prevenção de SQL Injection"],
+
+  // devops & infra
+  devops     : ["Docker", "Docker Compose", "GitHub Actions",
+                 "CI/CD", "Vercel", "Deploy Serverless",
+                 "Ambientes dev · staging · produção",
+                 "Branch Protection Rules", "AWS", "Azure"],
+
+  // versionamento & qualidade
+  versionamento: ["Git avançado", "Branching Strategies",
+                   "Trunk-based", "Feature Branch",
+                   "Git Hooks (Husky)", "Commitizen",
+                   "Conventional Commits", "Commitlint",
+                   "Pull Requests", "Code Review"],
+
+  // testes
+  testes     : ["Jest", "TDD", "BDD",
+                 "Testes Unitários", "Testes de Integração",
+                 "Faker.js para dados de teste"],
+
+  // segurança
+  security   : ["bcrypt · hash · salt · pepper",
+                 "Prevenção de SQL Injection",
+                 "Session Hijacking · Cookies Seguros",
+                 "Variáveis de Ambiente (.env)",
+                 "SSL/TLS", "UUID", "Kali Linux",
+                 "Hacking Ético", "Análise de Vulnerabilidades",
+                 "Medusa · Brute Force · Pentest básico"],
+
+  // protocolos & redes
+  protocolos : ["HTTP/HTTPS", "TCP/IP", "UDP",
+                 "DNS", "SMTP", "REST/RESTful",
+                 "Cookies e Sessões", "Semantic Versioning"],
+
+  // ferramentas
+  ferramentas: ["VSCode", "Linux · Terminal", "Git", "GitHub",
+                 "Docker Hub", "Nodemailer", "dotenv",
+                 "Concurrently", "async-retry", "JSON · YAML"],
+
+  ingles     : "C1 — Advanced",
 };
 ```
 
@@ -73,7 +127,7 @@ const stack = {
 </div>
 
 > 🚗 **webprime motors tem demo online →** [webprimemotors.somee.com](https://webprimemotors.somee.com/)
-> sistema corporativo de gestão de concessionária · ASP.NET Core MVC · EF Core · SQL Server · Bootstrap 5
+> ASP.NET Core MVC · EF Core · SQL Server · Bootstrap 5 · deploy em produção
 
 ---
 
