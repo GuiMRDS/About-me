@@ -1,4 +1,4 @@
-cat > /mnt/user-data/outputs/README_GuiMRDS_v7.md << 'MDEOF'
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:1f6feb&height=140&section=header&text=Guilherme%20Marinho&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full+Stack+Developer+%C2%B7+IT+Assistant&descSize=14&descAlignY=62&descColor=58A6FF"/>
