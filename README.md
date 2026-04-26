@@ -92,6 +92,3 @@ const guilherme = {
 | 📐 | Algoritmos e Lógica de Programação | Udemy | 2024 |
  
 ---
- 
-<div align="center">
-![snake](https://raw.githubusercontent.com/GuiMRDS/GuiMRDS/output/github-contribution-grid-snake-dark.svg)
