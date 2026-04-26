@@ -95,8 +95,3 @@ const guilherme = {
  
 <div align="center">
 ![snake](https://raw.githubusercontent.com/GuiMRDS/GuiMRDS/output/github-contribution-grid-snake-dark.svg)
- 
-</div>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:0d1117,100:000000&height=80&section=footer"/>
-</div>
