@@ -22,22 +22,24 @@
 </div>
 ---
  
-Me chamo **Guilherme Marinho**, tenho 22 anos e sou natural de Sorocaba, SP. Atualmente atuo como **Assistente de TI na FADI — Faculdade de Direito de Sorocaba** e sou formado em **Análise e Desenvolvimento de Sistemas pela UNIP**. Sou apaixonado por desenvolvimento de software, segurança da informação e por construir sistemas que realmente funcionam — não só código bonito.
- 
----
- 
-## Connect with me!
- 
-[![EMAIL](https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:guimars22@gmail.com)
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/guilherme-marinho04/)
-[![GITHUB](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/GuiMRDS)
-[![DEMO](https://img.shields.io/badge/WEBPRIME_MOTORS-0d1117?style=for-the-badge&logo=googlechrome&logoColor=3fb950)](https://webprimemotors.somee.com/)
+Me chamo **Guilherme Marinho**, tenho 21 anos e sou natural de Jabotão do Guararapes, PE. Mas atualmente moro em Sorocaba e atuo como **Assistente de TI na FADI — Faculdade de Direito de Sorocaba** e sou formado em **Análise e Desenvolvimento de Sistemas pela UNIP**. Sou apaixonado por desenvolvimento de software, segurança da informação e por construir sistemas que realmente funcionam — não só código bonito.
  
 ---
  
 ## My Stack ~
  
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,php,python,js,nodejs,react,nextjs,html,css,bootstrap,mysql,mongodb,postgres,docker,git,github,linux,kali,azure,aws,vscode,wordpress&perline=12" />
+**Linguagens & Back-end**
+ 
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,php,python,c,cpp,kotlin,nodejs,javascript&perline=10" />
+**Front-end & Mobile**
+ 
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,wordpress,androidstudio&perline=10" />
+**Banco de Dados & Cloud**
+ 
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,aws,azure,vercel,linux&perline=10" />
+**DevOps, Testes & Segurança**
+ 
+<img src="https://skillicons.dev/icons?i=github,git,jest,kali,vscode,figma&perline=10" />
 ---
  
 ## GitHub Stats
