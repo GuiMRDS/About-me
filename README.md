@@ -20,62 +20,25 @@
 ---
 
 </div>
----
  
 Me chamo **Guilherme Marinho**, tenho 21 anos e sou natural de Jabotão do Guararapes, PE. Mas atualmente moro em Sorocaba e atuo como **Assistente de TI na FADI — Faculdade de Direito de Sorocaba** e sou formado em **Análise e Desenvolvimento de Sistemas pela UNIP**. Sou apaixonado por desenvolvimento de software, segurança da informação e por construir sistemas que realmente funcionam — não só código bonito.
  
 ---
  
-## My Stack ~
+## My Stack
  
-**Linguagens & Back-end**
+Linguagens & Back-end
  
 <img src="https://skillicons.dev/icons?i=cs,dotnet,java,php,python,c,cpp,kotlin,nodejs,javascript&perline=10" />
-**Front-end & Mobile**
+Front-end & Mobile
  
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,wordpress,androidstudio&perline=10" />
-**Banco de Dados & Cloud**
+Banco de Dados & Cloud
  
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,aws,azure,vercel,linux&perline=10" />
-**DevOps, Testes & Segurança**
+DevOps, Testes & Segurança
  
 <img src="https://skillicons.dev/icons?i=github,git,jest,kali,vscode,figma&perline=10" />
----
- 
-## GitHub Stats
- 
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=GuiMRDS&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=3fb950&count_private=true&rank_icon=github"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiMRDS&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
-<br/><br/>
- 
-![streak](https://streak-stats.demolab.com?user=GuiMRDS&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=3fb950&fire=ff7b72&currStreakLabel=ffffff&sideLabels=8b949e&dates=484f58)
- 
-</div>
----
- 
-## Conhecimentos ~
- 
-```javascript
-const guilherme = {
-  backend    : ["C#", ".NET", "ASP.NET Core MVC", "Entity Framework Core",
-                 "Java", "PHP", "Python", "Node.js", "C", "C++"],
-  frontend   : ["React", "Next.js", "JavaScript", "HTML5", "CSS3",
-                 "Bootstrap 5", "WordPress", "Razor Views"],
-  database   : ["SQL Server", "PostgreSQL", "MongoDB"],
-  devops     : ["Docker", "GitHub Actions", "CI/CD", "Vercel", "AWS", "Azure"],
-  testes     : ["Jest", "TDD", "Testes Unitários", "Testes de Integração"],
-  security   : ["Kali Linux", "Hacking Ético", "bcrypt", "SQL Injection", "Pentest"],
-  ia_tools   : ["CursorAI", "GitHub Copilot", "Claude", "Prompt Engineering"],
-  arquitetura: ["MVC", "REST", "Scrum", "Metodologia Ágil", "Modelo Cascata"],
-  algoritmos : ["Lógica de Programação", "Portugol", "Fluxogramas",
-                 "Estruturas de Dados", "Ordenação", "Recursividade"],
-  ingles     : "C1 — Advanced · Open to remote work",
-};
-```
- 
----
  
 ## Formação & Certificações ~
  
@@ -92,3 +55,16 @@ const guilherme = {
 | 📐 | Algoritmos e Lógica de Programação | Udemy | 2024 |
  
 ---
+
+
+## GitHub Stats
+ 
+<div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=GuiMRDS&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=3fb950&count_private=true&rank_icon=github"/>
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiMRDS&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+<br/><br/>
+ 
+![streak](https://streak-stats.demolab.com?user=GuiMRDS&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=3fb950&fire=ff7b72&currStreakLabel=ffffff&sideLabels=8b949e&dates=484f58)
+ 
+</div>
