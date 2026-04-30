@@ -21,7 +21,7 @@
 
 </div>
  
-Me chamo **Guilherme Marinho**, Tenho 21 anos, moro em Sorocaba/SP e sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista.
+Me chamo **Guilherme Marinho**, Tenho 21 anos, moro em Sorocaba/SP e sou formado em **Análise e Desenvolvimento de Sistemas pela Universidade Paulista**.
 Sou apaixonado por desenvolvimento de software, arquitetura de sistemas e segurança — gosto de construir soluções que funcionam na prática, não só código bonito.
  
 ---
