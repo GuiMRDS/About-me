@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=720&lines=C%23+%C2%B7+.NET+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Full+Stack;Construindo+sistemas+que+funcionam+de+verdade;TDD+%C2%B7+Jest+%C2%B7+CI%2FCD+%C2%B7+GitHub+Actions+%C2%B7+Docker;Kali+Linux+%C2%B7+C%C3%B3digo+Seguro+%C2%B7+Pentest+%C2%B7+OWASP;APIs+REST+%C2%B7+JWT+%C2%B7+PostgreSQL+%C2%B7+Deploy+Real;IT+Assistant+%40+FADI+%C2%B7+Sorocaba%2C+SP+%C2%B7+Brasil;N%C3%A3o+entrego+c%C3%B3digo.+Entrego+solu%C3%A7%C3%A3o.;Scrum+%C2%B7+Metodologia+%C3%81gil+%C2%B7+Engenharia+de+Software;IA+no+desenvolvimento+%C2%B7+CursorAI+%C2%B7+Copilot+%C2%B7+Claude;Algoritmos+%C2%B7+L%C3%B3gica+%C2%B7+C+%C2%B7+C%2B%2B+%C2%B7+Python+%C2%B7+Java;Ingl%C3%AAs+C1+%C2%B7+Open+to+remote+work)](https://github.com/GuiMRDS)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=720&lines=C%23+%C2%B7+.NET+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Full+Stack;Construindo+sistemas+que+funcionam+de+verdade;TDD+%C2%B7+Jest+%C2%B7+CI%2FCD+%C2%B7+GitHub+Actions+%C2%B7+Docker;Kali+Linux+%C2%B7+C%C3%B3digo+Seguro+%C2%B7+Pentest+%C2%B7+OWASP;APIs+REST+%C2%B7+JWT+%C2%B7+PostgreSQL+%C2%B7+Deploy+Real;Sorocaba%2C+SP+%C2%B7+Brasil;N%C3%A3o+entrego+c%C3%B3digo.+Entrego+solu%C3%A7%C3%A3o.;Scrum+%C2%B7+Metodologia+%C3%81gil+%C2%B7+Engenharia+de+Software;IA+no+desenvolvimento+%C2%B7+CursorAI+%C2%B7+Copilot+%C2%B7+Claude;Algoritmos+%C2%B7+L%C3%B3gica+%C2%B7+C+%C2%B7+C%2B%2B+%C2%B7+Python+%C2%B7+Java;Ingl%C3%AAs+C1+%C2%B7+Open+to+remote+work)](https://github.com/GuiMRDS)
 
 <br/>
 
