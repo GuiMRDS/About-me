@@ -10,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/guilherme-marinho04/)
 [![Gmail](https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:guimars22@gmail.com)
-[![Demo](https://img.shields.io/badge/webprime_motors-0d1117?style=for-the-badge&logo=googlechrome&logoColor=3fb950)](https://webprimemotors.somee.com/)
 [![GitHub](https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/GuiMRDS)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GuiMRDS&color=58a6ff&style=flat-square&label=visitas+ao+perfil)
