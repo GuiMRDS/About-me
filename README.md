@@ -21,7 +21,8 @@
 
 </div>
  
-Me chamo **Guilherme Marinho**, tenho 21 anos e sou natural de Jabotão do Guararapes, PE. Mas atualmente moro em Sorocaba e atuo como **Assistente de TI na FADI — Faculdade de Direito de Sorocaba** e sou formado em **Análise e Desenvolvimento de Sistemas pela UNIP**. Sou apaixonado por desenvolvimento de software, segurança da informação e por construir sistemas que realmente funcionam — não só código bonito.
+Me chamo **Guilherme Marinho**, Tenho 21 anos, moro em Sorocaba/SP e sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista.
+Sou apaixonado por desenvolvimento de software, arquitetura de sistemas e segurança — gosto de construir soluções que funcionam na prática, não só código bonito.
  
 ---
  
