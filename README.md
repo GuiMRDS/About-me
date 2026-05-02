@@ -40,7 +40,7 @@ DevOps, Testes & Segurança
  
 <img src="https://skillicons.dev/icons?i=github,git,jest,kali,vscode,figma&perline=10" />
  
-## Formação & Certificações ~
+## Formação & Certificações
  
 | | Curso / Certificação | Emissor | Ano |
 |---|---|---|---|
