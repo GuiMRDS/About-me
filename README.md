@@ -29,9 +29,9 @@
 
 Me chamo **Guilherme Marinho**, tenho 21 anos e moro em **Sorocaba, SP**. Formado em **Análise e Desenvolvimento de Sistemas pela UNIP**.
 
-Apaixonado por desenvolvimento de software, arquitetura de sistemas e segurança — gosto de construir soluções que funcionam na prática, não só código bonito.
+Apaixonado por desenvolvimento de software, arquitetura de sistemas e segurança — gosto de construir soluções que funcionam e resolver problemas na prática, não só código bonito.
 
-Uso **IA ativamente** no desenvolvimento: CursorAI, Copilot e Claude para acelerar código, revisar arquitetura e gerar testes.
+Uso **IA ativamente** junto com **Python** no desenvolvimento: CursorAI, Copilot e Claude para acelerar código, revisar arquitetura e gerar testes.
 
 ---
 
