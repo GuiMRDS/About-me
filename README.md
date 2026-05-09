@@ -79,7 +79,7 @@ Uso **IA ativamente** junto com **Python** no desenvolvimento: CursorAI, Copilot
 | ⚙️ | WEX End to End Engineering | DIO · 2025 |
 | 🔐 | Bootcamp Cibersegurança | DIO · 2026 |
 | ☁️ | AZ-900 Cloud Fundamentals | Microsoft · 2025 |
-| 🤖 | Google AI Gemini Fundamentals | Google · 2024 |
+| 🤖 | Introduction to Google AI Essentials | Google · 2024 |
 | 🐍 | Programação Python | SENAI · 2025 |
 | 🌐 | ASP.NET Core UI | Microsoft Learn · 2025 |
 | 🔎 | XDR Segurança | Acronis · 2026 |
