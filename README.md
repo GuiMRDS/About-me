@@ -14,18 +14,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GuiMRDS&color=58a6ff&style=flat-square&label=visitas+ao+perfil)
 
-</div>
-
----
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-
-<!-- ═══════════════════ COLUNA ESQUERDA ═══════════════════ -->
-<td width="50%" valign="top">
-
-### 👤 Sobre mim
-
 Me chamo **Guilherme Marinho**, tenho 21 anos e moro em **Sorocaba, SP**. Formado em **Análise e Desenvolvimento de Sistemas pela UNIP**.
 
 Apaixonado por desenvolvimento de software, arquitetura de sistemas e segurança — gosto de construir soluções que funcionam e resolver problemas na prática, não só código bonito.
@@ -33,33 +21,7 @@ Apaixonado por desenvolvimento de software, arquitetura de sistemas e segurança
 Uso **IA ativamente** junto com **Python** no desenvolvimento: CursorAI, Copilot e Claude para acelerar código, revisar arquitetura e gerar testes.
 
 ---
-
-### 🛠️ My Stack
-
-**Linguagens & Back-end**
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,php,python,c,cpp,kotlin,nodejs,javascript&perline=5" />
-
-**Front-end & Mobile**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,wordpress,androidstudio&perline=5" />
-
-**Banco de Dados & Cloud**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,aws,azure,vercel,linux&perline=5" />
-
-**DevOps, Testes & Segurança**
-
-<img src="https://skillicons.dev/icons?i=github,git,jest,kali,vscode,figma&perline=5" />
-
-
-</td>
-
-<!-- ═══════════════════ DIVISOR ═══════════════════ -->
-<td width="2px" style="background:#1f6feb; padding:0"></td>
-
-<!-- ═══════════════════ COLUNA DIREITA ═══════════════════ -->
-<td width="50%" valign="top" align="center">
+<br/>
 
 ### 📊 GitHub Stats
 
@@ -70,21 +32,3 @@ Uso **IA ativamente** junto com **Python** no desenvolvimento: CursorAI, Copilot
 <img width="100%" src="https://streak-stats.demolab.com?user=GuiMRDS&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=3fb950&fire=ff7b72&currStreakLabel=ffffff&sideLabels=8b949e&dates=484f58"/>
 
 ---
-
-### 🎓 Formação & Certificações
-
-| | Certificação | Emissor |
-|---|---|---|
-| 🎓 | ADS — UNIP Sorocaba | UNIP · 2025 |
-| ⚙️ | WEX End to End Engineering | DIO · 2025 |
-| 🔐 | Bootcamp Cibersegurança | DIO · 2026 |
-| ☁️ | AZ-900 Cloud Fundamentals | Microsoft · 2025 |
-| 🤖 | Introduction to Google AI Essentials | Google · 2024 |
-| 🐍 | Programação Python | SENAI · 2025 |
-| 🌐 | ASP.NET Core UI | Microsoft Learn · 2025 |
-| 🔎 | XDR Segurança | Acronis · 2026 |
-| 📐 | Algoritmos e Lógica de Programação | Udemy · 2024 |
-
-</td>
-</tr>
-</table>
