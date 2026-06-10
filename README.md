@@ -1,6 +1,6 @@
 <div align="center">
 
-# Guilherme Marinho
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=C%23+%C2%B7+.NET+%C2%B7+React+%C2%B7+Next.js+%C2%B7+TypeScript;TDD+%C2%B7+Jest+%C2%B7+CI%2FCD+%C2%B7+Docker+%C2%B7+GitHub+Actions;APIs+REST+%C2%B7+JWT+%C2%B7+PostgreSQL;N%C3%A3o+entrego+c%C3%B3digo.+Entrego+solu%C3%A7%C3%A3o.)](https://github.com/GuiMRDS)
 
 </div>
