@@ -46,7 +46,19 @@ Inglês C1 · Aberto a trabalho remoto.
 </td>
 <td valign="top" width="50%">
 
-<img width="100%" src="https://streak-stats.demolab.com?user=GuiMRDS&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=3fb950&fire=ff7b72&currStreakLabel=ffffff&sideLabels=8b949e&dates=484f58&card_width=400" alt="Streak stats" />
+## 📊 GitHub Stats & Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GuiMRDS&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" alt="GuiMRDS GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiMRDS&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+
+</div>
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuiMRDS&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=ff7b72" alt="Contribution Graph" width="100%" />
 
 </td>
 </tr>
